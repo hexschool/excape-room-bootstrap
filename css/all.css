@@ -11976,20 +11976,20 @@ fieldset:disabled .btn {
 }
 
 .bg-gray {
-  background-color: #F8F9FA;
+  background-color: #f8f9fa;
 }
 
 .title::after {
-  content: "";
+  content: '';
   display: block;
   width: 100px;
   height: 5px;
-  background-color: #31C1DF;
+  background-color: #31c1df;
   margin: 5px auto;
 }
 
 .title-white::after {
-  content: "";
+  content: '';
   display: block;
   width: 100px;
   height: 5px;
