@@ -22,8 +22,8 @@
     </header>
     <main>
       <section class="d-flex justify-content-center">
-        <!-- 行動版單欄式排版要呈現正常 加上 row -->
-        <from class="d-flex row g-0 mt-25 w-auto shadow">
+        <!-- 行動版單欄式排版要呈現正常 加上 .row (因包含了 display: flex; 和 flex-wrap: wrap;  可將 .d-flex 移除) -->
+        <from class="row g-0 mt-25 w-auto shadow">
           <div class="col-md-4">
             <div class="form-floating">
               <input type="text" class="form-control rounded-0" id="floatingOut" placeholder="出發地">
