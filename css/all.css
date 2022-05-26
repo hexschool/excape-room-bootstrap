@@ -11961,6 +11961,10 @@ fieldset:disabled .btn {
   font-family: 'Noto Sans TC', sans-serif;
 }
 
+.wrap {
+  max-width: 99%;
+}
+
 .mt-25 {
   margin-top: -25px;
 }
